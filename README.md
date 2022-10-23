@@ -1,2 +1,2 @@
 # ComputerScienceProblem.cpp
-Computer Science problem in C++
+Computer Science problems in C++
